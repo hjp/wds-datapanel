@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDSDataPanel", "WDSDataPanel\WDSDataPanel.csproj", "{BA5B0FFA-A797-4C3F-BB24-C8A3C64A9355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDSDataPanelTest", "WDSDataPanelTest\WDSDataPanelTest.csproj", "{5CE5DC4C-C935-419B-AC75-94557A3562A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5B0FFA-A797-4C3F-BB24-C8A3C64A9355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5B0FFA-A797-4C3F-BB24-C8A3C64A9355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5B0FFA-A797-4C3F-BB24-C8A3C64A9355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5B0FFA-A797-4C3F-BB24-C8A3C64A9355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE5DC4C-C935-419B-AC75-94557A3562A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE5DC4C-C935-419B-AC75-94557A3562A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE5DC4C-C935-419B-AC75-94557A3562A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE5DC4C-C935-419B-AC75-94557A3562A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
